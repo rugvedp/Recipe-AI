@@ -53,7 +53,7 @@ While this project utilizes CrewAI and Agentic AI services, you can still learn 
 
 **Dependencies:**
 
--   CrewAI ([https://crew.ai/](https://crewai.com/))
+-   CrewAI ([https://crewai.com/](https://crewai.com/))
 -   Streamlit ([https://streamlit.io/](https://streamlit.io/))
 -   Pillow (PIL Fork) ([https://pillow.readthedocs.io/en/stable/](https://pillow.readthedocs.io/en/stable/))
 
