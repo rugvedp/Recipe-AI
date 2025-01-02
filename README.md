@@ -45,7 +45,7 @@ While this project utilizes CrewAI and Agentic AI services, you can still learn 
 **Usage:**
 
 1.  Clone this repository.
-2.  Set up your GROQ_API_KEY using environment variables. Refer to their documentation for specific instructions.
+2.  Set up your GROQ_API_KEY and GEMINI_API_KEY using environment variables. Refer to their documentation for specific instructions.
 3.  Run the `main.py` script.
 4.  Upload an image of your ingredients using the Streamlit interface.
 5.  Select your dietary preference.
@@ -60,7 +60,7 @@ While this project utilizes CrewAI and Agentic AI services, you can still learn 
 **Development Setup:**
 
 1.  Install the required dependencies using `pip install crewai crewai_tools pillow streamlit`.
-2.  Set up your GROQ_API_KEY
+2.  Set up your GROQ_API_KEY, GEMINI_API_KEY
 3.  Run `streamlit run main.py` to launch the Streamlit app.
 
 **Contributing:**
