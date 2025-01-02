@@ -7,12 +7,12 @@ import warnings
 
 warnings.filterwarnings('ignore')
 os.environ['GROQ_API_KEY'] = ''
-
+os.environ['GEMINI_API_KEY'] = ''
 
 #Agents
 image_analyzer = Agent(
     llm = LLM(
-    model="groq/llama3-8b-8192",
+    model="gemini/gemini-1.5-pro",
     temperature=0.7
     ),
     role="Image Recognition Specialist",
